@@ -69,3 +69,6 @@ Curadoria de Fontes:
 O uso do NotebookLM demonstrou grande potencial como ferramenta de apoio ao estudo científico, permitindo organizar, sintetizar e refletir criticamente sobre conteúdos complexos.
 Este projeto evidencia a importância da curadoria de fontes e da formulação de prompts estratégicos para obtenção de respostas mais qualificadas.
 
+## 🧠 Sobre mim
+
+Doutoranda em Saúde Coletiva, com experiência em análise de dados epidemiológicos, saúde pública e pesquisa científica. Interesse em temas relacionados à violência de gênero, políticas públicas e uso de tecnologias no apoio à análise e produção do conhecimento.
